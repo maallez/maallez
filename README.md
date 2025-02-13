@@ -13,9 +13,9 @@
 <details>
   <summary>👨‍💻 Sobre mim</summary>
 
-  - 💬 Tenho 34 anos e atualmente vivo no Brasil. Tenho Ingles intermediario, e possuo experiencia anteriores em analise de dados. Atualmente estou migrando de carreira, em busca de vaga em uma carreira tech
+  - 💬 Tenho 34 anos e atualmente vivo no Brasil. Tenho Ingles intermediario,  possuo experiencia anterior em analise de dados. Atualmente estou migrando de carreira, em busca de vaga em uma carreira tech
 
-  - ⚡ Gosto de ler tudo em geral, de jornal a manga, passando a assistir documentarios a blockbusters! Acredito no poder que a educação tem de transformar o ser humano e me guio por essa ideia. \o/
+  - ⚡ Gosto de ler tudo em geral, de jornal a manga, passando de assistir documentarios a blockbusters! Acredito no poder que a educação tem de transformar o ser humano e me guio por essa ideia. \o/
 </details>
 
 ###
